@@ -1,7 +1,6 @@
 # tags-game
 ![image](https://github.com/Azyk1/tags/assets/70807132/5115304d-cae2-40e4-850e-23117f53708e)
 
-AI for a tags game
 
 ### Project have following scripts:
 - <b>main</b> - start game
